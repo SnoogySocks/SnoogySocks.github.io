@@ -32,10 +32,10 @@ Write a few sentences describing you the best.
 <table>
     <tr>
         <td>
-            <a href="https://github.com/yourname" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
+            <a href="https://github.com/SnoogySocks" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
         </td>
         <td>
-            <a href="https://linkedin.com/youraccount" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
+            <a href="https://linkedin.com/felixfong58" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
         </td>
         <td>
             <a href="https://twitter.com/youraccount" target="blank"><i class="fab fa-twitter-square fa-lg"></i> Twitter</a>
@@ -49,7 +49,7 @@ Write a few sentences describing you the best.
 
 [Have a look at my photo gallery](/photo.md)
 
-# Eduction
+# Education
 
 * (1983-Forever) - Student 
 
