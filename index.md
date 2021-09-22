@@ -3,11 +3,11 @@
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
 ## Personal Information
-Surname(s) / First name(s): **Write down your full name here**
+Surname(s) / First name(s): Fong, Felix
 
-Email(s): [youremail(at)domain(dot)com](mailto:youremail@domain.com)
+Email(s): [felixfong58@gmail.com](mailto:felixfong58@gmail.com)
 
-Date of birth: Write your date of birth here
+Date of birth: 21 October 2003
 
 ### About Me
 
